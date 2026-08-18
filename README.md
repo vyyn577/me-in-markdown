@@ -6,6 +6,14 @@ One of my hobbies is playing badminton. My family and I go to the park to play b
 
 We stayed at Vietnam for 3 weeks and I got to visit many water parks. In Vietnam people wake up relaly early. I ate breakfast at 6 am and then went swimming. My family usually goes once every year or two. Also, in the future I hope I get into UCLA or UC Berkeley. 
 
-[This is a link that will take you to Spotify.]()
+[This is a link that will take you to Spotify.](https://open.spotify.com/playlist/1nhr7CvHQe8B96UiM7NkGM?si=90251bcf8cb8...)
 
-![image of things I like]()
+Things I like![alt text](v.png)
+
+Things I need to do tomorrow: 
+
+1. Wake up
+2. Eat breakfast
+3. Go to school
+4. Do homework
+5. Sleep and repeat
